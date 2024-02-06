@@ -1,0 +1,7 @@
+[submodule "nitro-contracts"]
+	path = nitro-contracts
+	url = https://github.com/availproject/nitro-contracts
+	branch = avail-develop-v2.3.1
+[submodule "orbit-setup-script"]
+	path = orbit-setup-script
+	url = https://github.com/OffchainLabs/orbit-setup-script.git
